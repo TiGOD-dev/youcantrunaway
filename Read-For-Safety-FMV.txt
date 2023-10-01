@@ -1,0 +1,16 @@
+This Virus is Created Just For Fun And Inspired In Boss Da Major/MrsMajor (By ElektroKill)
+
+----- Requires Framework (Included with the Malware) -----
+----- NOT TESTED IN WINDOWS 11, 8, 7 AND LOWER -----
+
+Malware Created By: tigod (And several of the codes for this malware are from cybersoldier/cluttertech, check his work)
+
+Coded In: C# and Assembly
+
+Original File Name: YouCantRunAway.exe
+
+Tested On: Windows 10 Pro x64 and Windows 10 Pro 32x
+
+Dont Try It In Your Real PC | Just Run This In A Virtual Machine (VirtualBox/VmWare) or Sandboxie
+
+Thanks by reading this, now, good luck! =)
